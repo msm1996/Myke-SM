@@ -10,7 +10,7 @@ Eu sou Myke Santana Martins, sou Programador Front End  atualmente estou aprende
   <br/>
   <br/>
 
-  Esees é meu linkedin, para que possam ver meus trabalhos realizados e meus contatos:
+Esee é meu linkedin, para que possam ver meus trabalhos realizados e meus contatos:
 - <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <a>"https://www.linkedin.com/in/myke-santana-martins"</a>
 <br/>
 <br/>
