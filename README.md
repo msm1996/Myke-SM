@@ -1,5 +1,4 @@
-## Hi there :computer: Estudando programação.
-:house: Trabalhando de casa.
+## Hi there :computer: Estudando programação :house: Trabalhando de casa
 <br/> 
 
 Eu sou Myke Santana Martins, sou Programador Front End  atualmente estou aprendendo e criando projetos com as técnologias:
