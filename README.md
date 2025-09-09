@@ -1,6 +1,4 @@
-<h1>Olá pessoal :computer: Estudando programação :house: Trabalhando de casa<h1/>
-<br/> 
-
+<h1>💻 Myke Santana Martins - Programador Front End<h1/>
 <h2>Eu sou Myke Santana Martins, sou Programador Front End atualmente estou aprendendo e criando projetos em uma formaçâo de TI chamado DevClub, estou estudando com as técnologias:<h2/>
 <a href="https://google.com"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" /></a>
   <br>
